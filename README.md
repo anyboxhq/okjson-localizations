@@ -12,6 +12,7 @@ Localize OK JSON into your languages.
 - [Portuguese (Brazil)](/Resources/pt-BR.xcloc/)
 - [Russian](/Resources/ru.xcloc/)
 - [Spanish (Latin America)](/Resources/es-419.xcloc/)
+- [Ukrainian](/Resources/uk.xcloc/)
 
 ## Getting Started
 
@@ -56,3 +57,5 @@ Localize OK JSON into your languages.
 ### Russian
 
 ### Spanish (Latin America)
+
+### Ukrainian
