@@ -21,11 +21,13 @@ Localize OK JSON into your languages.
 
 3. Navigate to the locale file you want to help translate, double-click to open it with Xcode.
 
-4. Enter the translation in the langugage colunb. It’s next to the “Default Localization (en)”.
+4. Enter the translation in the langugage column. It’s next to the “Default Localization (en)” column.
 
 5. Translate all the six files until there’re no “NEW” states left in the files.
 
 6. You can choose to add your name and link to the **Acknowledgements** section. It will appear in the app.
+
+7. Open a pull request.
 
 ![example](/Screenshots/open-with-xcode.png)
 
