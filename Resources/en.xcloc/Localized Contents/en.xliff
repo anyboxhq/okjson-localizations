@@ -1,0 +1,2363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="OK JSON/Base.lproj/Main.storyboard" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.1" build-num="15C5028h"/>
+    </header>
+    <body>
+      <trans-unit id="0Ld-7p-lhK.title" xml:space="preserve">
+        <source>New from URL</source>
+        <target state="translated">New from URL</target>
+        <note>Class = "NSMenuItem"; title = "New from URL…"; ObjectID = "0Ld-7p-lhK";</note>
+      </trans-unit>
+      <trans-unit id="1Xt-HY-uBw.title" xml:space="preserve">
+        <source>OK JSON</source>
+        <target state="new">OK JSON</target>
+        <note>Class = "NSMenuItem"; title = "OK JSON"; ObjectID = "1Xt-HY-uBw";</note>
+      </trans-unit>
+      <trans-unit id="1b7-l0-nxx.title" xml:space="preserve">
+        <source>Find</source>
+        <target state="new">Find</target>
+        <note>Class = "NSMenu"; title = "Find"; ObjectID = "1b7-l0-nxx";</note>
+      </trans-unit>
+      <trans-unit id="2BH-ZI-fhD.title" xml:space="preserve">
+        <source>Privacy Policy</source>
+        <target state="new">Privacy Policy</target>
+        <note>Class = "NSMenuItem"; title = "Privacy Policy"; ObjectID = "2BH-ZI-fhD";</note>
+      </trans-unit>
+      <trans-unit id="2dA-dJ-rD6.title" xml:space="preserve">
+        <source>Introduction of Scripts</source>
+        <target state="new">Introduction of Scripts</target>
+        <note>Class = "NSMenuItem"; title = "Introduction of Scripts"; ObjectID = "2dA-dJ-rD6";</note>
+      </trans-unit>
+      <trans-unit id="2lc-Ee-vK4.title" xml:space="preserve">
+        <source>Yesterday</source>
+        <target state="new">Yesterday</target>
+        <note>Class = "NSMenuItem"; title = "Yesterday"; ObjectID = "2lc-Ee-vK4";</note>
+      </trans-unit>
+      <trans-unit id="2oI-Rn-ZJC.title" xml:space="preserve">
+        <source>Transformations</source>
+        <target state="new">Transformations</target>
+        <note>Class = "NSMenuItem"; title = "Transformations"; ObjectID = "2oI-Rn-ZJC";</note>
+      </trans-unit>
+      <trans-unit id="3b6-Qf-aye.label" xml:space="preserve">
+        <source>Paste</source>
+        <target state="translated">Paste</target>
+        <note>Class = "NSToolbarItem"; label = "Paste"; ObjectID = "3b6-Qf-aye";</note>
+      </trans-unit>
+      <trans-unit id="3b6-Qf-aye.toolTip" xml:space="preserve">
+        <source>New from Pasteboard</source>
+        <target state="translated">New from Pasteboard</target>
+        <note>Class = "NSToolbarItem"; toolTip = "New from Pasteboard"; ObjectID = "3b6-Qf-aye";</note>
+      </trans-unit>
+      <trans-unit id="3pd-Fg-bxz.title" xml:space="preserve">
+        <source>Reopen Closed Tab</source>
+        <target state="new">Reopen Closed Tab</target>
+        <note>Class = "NSMenuItem"; title = "Reopen Closed Tab"; ObjectID = "3pd-Fg-bxz";</note>
+      </trans-unit>
+      <trans-unit id="3rS-ZA-NoH.title" xml:space="preserve">
+        <source>Speech</source>
+        <target state="new">Speech</target>
+        <note>Class = "NSMenu"; title = "Speech"; ObjectID = "3rS-ZA-NoH";</note>
+      </trans-unit>
+      <trans-unit id="4EN-yA-p0u.title" xml:space="preserve">
+        <source>Find</source>
+        <target state="new">Find</target>
+        <note>Class = "NSMenuItem"; title = "Find"; ObjectID = "4EN-yA-p0u";</note>
+      </trans-unit>
+      <trans-unit id="4J7-dP-txa.title" xml:space="preserve">
+        <source>Enter Full Screen</source>
+        <target state="new">Enter Full Screen</target>
+        <note>Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "4J7-dP-txa";</note>
+      </trans-unit>
+      <trans-unit id="4MF-Tm-keq.title" xml:space="preserve">
+        <source>Share</source>
+        <target state="new">Share</target>
+        <note>Class = "NSMenu"; title = "Share"; ObjectID = "4MF-Tm-keq";</note>
+      </trans-unit>
+      <trans-unit id="4TD-3N-lyE.title" xml:space="preserve">
+        <source>Share</source>
+        <target state="new">Share</target>
+        <note>Class = "NSMenuItem"; title = "Share"; ObjectID = "4TD-3N-lyE";</note>
+      </trans-unit>
+      <trans-unit id="4sb-4s-VLi.title" xml:space="preserve">
+        <source>Quit OK JSON</source>
+        <target state="new">Quit OK JSON</target>
+        <note>Class = "NSMenuItem"; title = "Quit OK JSON"; ObjectID = "4sb-4s-VLi";</note>
+      </trans-unit>
+      <trans-unit id="5QF-Oa-p0T.title" xml:space="preserve">
+        <source>Edit</source>
+        <target state="new">Edit</target>
+        <note>Class = "NSMenuItem"; title = "Edit"; ObjectID = "5QF-Oa-p0T";</note>
+      </trans-unit>
+      <trans-unit id="5kV-Vb-QxS.title" xml:space="preserve">
+        <source>About OK JSON</source>
+        <target state="new">About OK JSON</target>
+        <note>Class = "NSMenuItem"; title = "About OK JSON"; ObjectID = "5kV-Vb-QxS";</note>
+      </trans-unit>
+      <trans-unit id="6dh-zS-Vam.title" xml:space="preserve">
+        <source>Redo</source>
+        <target state="new">Redo</target>
+        <note>Class = "NSMenuItem"; title = "Redo"; ObjectID = "6dh-zS-Vam";</note>
+      </trans-unit>
+      <trans-unit id="6wK-uC-tyQ.title" xml:space="preserve">
+        <source>New Viewer from Pasteboard…</source>
+        <target state="new">New Viewer from Pasteboard…</target>
+        <note>Class = "NSMenuItem"; title = "New Viewer from Pasteboard…"; ObjectID = "6wK-uC-tyQ";</note>
+      </trans-unit>
+      <trans-unit id="7G4-n1-kL0.title" xml:space="preserve">
+        <source>Go Forward</source>
+        <target state="new">Go Forward</target>
+        <note>Class = "NSMenuItem"; title = "Go Forward"; ObjectID = "7G4-n1-kL0";</note>
+      </trans-unit>
+      <trans-unit id="7Oo-ZU-UPv.title" xml:space="preserve">
+        <source>This Week</source>
+        <target state="new">This Week</target>
+        <note>Class = "NSMenuItem"; title = "This Week"; ObjectID = "7Oo-ZU-UPv";</note>
+      </trans-unit>
+      <trans-unit id="8YW-HZ-gZb.title" xml:space="preserve">
+        <source>Save Changes to File</source>
+        <target state="new">Save Changes to File</target>
+        <note>Class = "NSMenuItem"; title = "Save Changes to File"; ObjectID = "8YW-HZ-gZb";</note>
+      </trans-unit>
+      <trans-unit id="9Pl-GY-YB4.title" xml:space="preserve">
+        <source>Quick Look</source>
+        <target state="new">Quick Look</target>
+        <note>Class = "NSMenuItem"; title = "Quick Look"; ObjectID = "9Pl-GY-YB4";</note>
+      </trans-unit>
+      <trans-unit id="85z-io-arC.title" xml:space="preserve">
+        <source>New Script</source>
+        <target state="new">New Script</target>
+        <note>Class = "NSMenuItem"; title = "New Script"; ObjectID = "85z-io-arC";</note>
+      </trans-unit>
+      <trans-unit id="BOF-NM-1cW.title" xml:space="preserve">
+        <source>Settings…</source>
+        <target state="new">Settings…</target>
+        <note>Class = "NSMenuItem"; title = "Settings…"; ObjectID = "BOF-NM-1cW";</note>
+      </trans-unit>
+      <trans-unit id="Bw7-FT-i3A.title" xml:space="preserve">
+        <source>Save As…</source>
+        <target state="new">Save As…</target>
+        <note>Class = "NSMenuItem"; title = "Save As…"; ObjectID = "Bw7-FT-i3A";</note>
+      </trans-unit>
+      <trans-unit id="C80-xP-GjG.title" xml:space="preserve">
+        <source>Delete</source>
+        <target state="translated">Delete</target>
+        <note>Class = "NSMenuItem"; title = "Delete"; ObjectID = "C80-xP-GjG";</note>
+      </trans-unit>
+      <trans-unit id="Cr2-nY-kZG.title" xml:space="preserve">
+        <source>Run Script</source>
+        <target state="new">Run Script</target>
+        <note>Class = "NSMenu"; title = "Run Script"; ObjectID = "Cr2-nY-kZG";</note>
+      </trans-unit>
+      <trans-unit id="DVo-aG-piG.title" xml:space="preserve">
+        <source>Close</source>
+        <target state="new">Close</target>
+        <note>Class = "NSMenuItem"; title = "Close"; ObjectID = "DVo-aG-piG";</note>
+      </trans-unit>
+      <trans-unit id="E0p-DB-wv8.title" xml:space="preserve">
+        <source>Search…</source>
+        <target state="new">Search…</target>
+        <note>Class = "NSMenuItem"; title = "Search…"; ObjectID = "E0p-DB-wv8";</note>
+      </trans-unit>
+      <trans-unit id="FBw-EV-fK5.title" xml:space="preserve">
+        <source>New Viewer from URL…</source>
+        <target state="new">New Viewer from URL…</target>
+        <note>Class = "NSMenuItem"; title = "New Viewer from URL…"; ObjectID = "FBw-EV-fK5";</note>
+      </trans-unit>
+      <trans-unit id="FhM-Zj-hGG.title" xml:space="preserve">
+        <source>History</source>
+        <target state="new">History</target>
+        <note>Class = "NSMenuItem"; title = "History"; ObjectID = "FhM-Zj-hGG";</note>
+      </trans-unit>
+      <trans-unit id="FpL-1L-xR4.title" xml:space="preserve">
+        <source>Go Back</source>
+        <target state="new">Go Back</target>
+        <note>Class = "NSMenuItem"; title = "Go Back"; ObjectID = "FpL-1L-xR4";</note>
+      </trans-unit>
+      <trans-unit id="H2m-WU-rhj.title" xml:space="preserve">
+        <source>Save Changes</source>
+        <target state="new">Save Changes</target>
+        <note>Class = "NSButtonCell"; title = "Save Changes"; ObjectID = "H2m-WU-rhj";</note>
+      </trans-unit>
+      <trans-unit id="H8h-7b-M4v.title" xml:space="preserve">
+        <source>View</source>
+        <target state="new">View</target>
+        <note>Class = "NSMenuItem"; title = "View"; ObjectID = "H8h-7b-M4v";</note>
+      </trans-unit>
+      <trans-unit id="HyV-fh-RgO.title" xml:space="preserve">
+        <source>View</source>
+        <target state="new">View</target>
+        <note>Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO";</note>
+      </trans-unit>
+      <trans-unit id="I7g-p6-ccT.title" xml:space="preserve">
+        <source>Help</source>
+        <target state="new">Help</target>
+        <note>Class = "NSMenu"; title = "Help"; ObjectID = "I7g-p6-ccT";</note>
+      </trans-unit>
+      <trans-unit id="IAo-SY-fd9.title" xml:space="preserve">
+        <source>Open…</source>
+        <target state="new">Open…</target>
+        <note>Class = "NSMenuItem"; title = "Open…"; ObjectID = "IAo-SY-fd9";</note>
+      </trans-unit>
+      <trans-unit id="JqG-pe-ROp.title" xml:space="preserve">
+        <source>Rename…</source>
+        <target state="translated">Rename…</target>
+        <note>Class = "NSMenuItem"; title = "Rename…"; ObjectID = "JqG-pe-ROp";</note>
+      </trans-unit>
+      <trans-unit id="K1d-i8-6wp.title" xml:space="preserve">
+        <source>Save Changes to File</source>
+        <target state="new">Save Changes to File</target>
+        <note>Class = "NSButtonCell"; title = "Save Changes to File"; ObjectID = "K1d-i8-6wp";</note>
+      </trans-unit>
+      <trans-unit id="Kd2-mp-pUS.title" xml:space="preserve">
+        <source>Show All</source>
+        <target state="new">Show All</target>
+        <note>Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS";</note>
+      </trans-unit>
+      <trans-unit id="Ktr-ke-zcY.title" xml:space="preserve">
+        <source>New Tab</source>
+        <target state="new">New Tab</target>
+        <note>Class = "NSMenuItem"; title = "New Tab"; ObjectID = "Ktr-ke-zcY";</note>
+      </trans-unit>
+      <trans-unit id="LE2-aR-0XJ.title" xml:space="preserve">
+        <source>Bring All to Front</source>
+        <target state="new">Bring All to Front</target>
+        <note>Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ";</note>
+      </trans-unit>
+      <trans-unit id="LJ9-xz-c5g.title" xml:space="preserve">
+        <source>History</source>
+        <target state="new">History</target>
+        <note>Class = "NSMenu"; title = "History"; ObjectID = "LJ9-xz-c5g";</note>
+      </trans-unit>
+      <trans-unit id="MDv-ns-RW3.title" xml:space="preserve">
+        <source>All</source>
+        <target state="new">All</target>
+        <note>Class = "NSMenuItem"; title = "All"; ObjectID = "MDv-ns-RW3";</note>
+      </trans-unit>
+      <trans-unit id="Mat-IZ-TOr.title" xml:space="preserve">
+        <source>New Viewer from cURL Command</source>
+        <target state="translated">New Viewer from cURL Command</target>
+        <note>Class = "NSMenuItem"; title = "New Viewer from cURL Command…"; ObjectID = "Mat-IZ-TOr";</note>
+      </trans-unit>
+      <trans-unit id="Mw2-VR-mVC.title" xml:space="preserve">
+        <source>Acknowledgements…</source>
+        <target state="translated">Acknowledgements…</target>
+        <note>Class = "NSMenuItem"; title = "Acknowledgements"; ObjectID = "Mw2-VR-mVC";</note>
+      </trans-unit>
+      <trans-unit id="N7s-w4-V2e.title" xml:space="preserve">
+        <source>New Folder</source>
+        <target state="new">New Folder</target>
+        <note>Class = "NSMenuItem"; title = "New Folder"; ObjectID = "N7s-w4-V2e";</note>
+      </trans-unit>
+      <trans-unit id="NMo-om-nkz.title" xml:space="preserve">
+        <source>Services</source>
+        <target state="new">Services</target>
+        <note>Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz";</note>
+      </trans-unit>
+      <trans-unit id="NPB-yH-CBB.title" xml:space="preserve">
+        <source>Copy As Minified JSON</source>
+        <target state="new">Copy As Minified JSON</target>
+        <note>Class = "NSMenuItem"; title = "Copy As Minified JSON"; ObjectID = "NPB-yH-CBB";</note>
+      </trans-unit>
+      <trans-unit id="OY7-WF-poV.title" xml:space="preserve">
+        <source>Minimize</source>
+        <target state="new">Minimize</target>
+        <note>Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV";</note>
+      </trans-unit>
+      <trans-unit id="Olw-nP-bQN.title" xml:space="preserve">
+        <source>Hide OK JSON</source>
+        <target state="new">Hide OK JSON</target>
+        <note>Class = "NSMenuItem"; title = "Hide OK JSON"; ObjectID = "Olw-nP-bQN";</note>
+      </trans-unit>
+      <trans-unit id="OwM-mh-QMV.title" xml:space="preserve">
+        <source>Find Previous</source>
+        <target state="new">Find Previous</target>
+        <note>Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "OwM-mh-QMV";</note>
+      </trans-unit>
+      <trans-unit id="Oyz-dy-DGm.title" xml:space="preserve">
+        <source>Stop Speaking</source>
+        <target state="new">Stop Speaking</target>
+        <note>Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "Oyz-dy-DGm";</note>
+      </trans-unit>
+      <trans-unit id="PY0-hy-KGN.title" xml:space="preserve">
+        <source>Zoom In Node in New Viewer</source>
+        <target state="new">Zoom In Node in New Viewer</target>
+        <note>Class = "NSMenuItem"; title = "Zoom In Node in New Viewer"; ObjectID = "PY0-hy-KGN";</note>
+      </trans-unit>
+      <trans-unit id="Qev-Nk-EHt.title" xml:space="preserve">
+        <source>Show Script Folder in Finder</source>
+        <target state="new">Show Script Folder in Finder</target>
+        <note>Class = "NSMenuItem"; title = "Show Script Folder in Finder"; ObjectID = "Qev-Nk-EHt";</note>
+      </trans-unit>
+      <trans-unit id="QiR-ex-ucY.title" xml:space="preserve">
+        <source>Unsorted</source>
+        <target state="new">Unsorted</target>
+        <note>Class = "NSMenuItem"; title = "Unsorted"; ObjectID = "QiR-ex-ucY";</note>
+      </trans-unit>
+      <trans-unit id="R4o-n2-Eq4.title" xml:space="preserve">
+        <source>Zoom</source>
+        <target state="new">Zoom</target>
+        <note>Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4";</note>
+      </trans-unit>
+      <trans-unit id="Rbh-o1-OSC.title" xml:space="preserve">
+        <source>Navigate</source>
+        <target state="new">Navigate</target>
+        <note>Class = "NSMenuItem"; title = "Navigate"; ObjectID = "Rbh-o1-OSC";</note>
+      </trans-unit>
+      <trans-unit id="RmV-PW-5zs.title" xml:space="preserve">
+        <source>Open File in New Viewer…</source>
+        <target state="new">Open File in New Viewer…</target>
+        <note>Class = "NSMenuItem"; title = "Open File in New Viewer…"; ObjectID = "RmV-PW-5zs";</note>
+      </trans-unit>
+      <trans-unit id="Ruw-6m-B2m.title" xml:space="preserve">
+        <source>Select All</source>
+        <target state="new">Select All</target>
+        <note>Class = "NSMenuItem"; title = "Select All"; ObjectID = "Ruw-6m-B2m";</note>
+      </trans-unit>
+      <trans-unit id="Rw6-20-Blt.title" xml:space="preserve">
+        <source>Raycast Extension</source>
+        <target state="new">Raycast Extension</target>
+        <note>Class = "NSMenuItem"; title = "Raycast Extension"; ObjectID = "Rw6-20-Blt";</note>
+      </trans-unit>
+      <trans-unit id="S0p-oC-mLd.title" xml:space="preserve">
+        <source>Jump to Selection</source>
+        <target state="new">Jump to Selection</target>
+        <note>Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "S0p-oC-mLd";</note>
+      </trans-unit>
+      <trans-unit id="S8m-xk-MZu.title" xml:space="preserve">
+        <source>Documentation</source>
+        <target state="new">Documentation</target>
+        <note>Class = "NSMenuItem"; title = "Documentation"; ObjectID = "S8m-xk-MZu";</note>
+      </trans-unit>
+      <trans-unit id="Td7-aD-5lo.title" xml:space="preserve">
+        <source>Window</source>
+        <target state="new">Window</target>
+        <note>Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo";</note>
+      </trans-unit>
+      <trans-unit id="U8q-8D-rfr.title" xml:space="preserve">
+        <source>Copy Value</source>
+        <target state="new">Copy Value</target>
+        <note>Class = "NSMenuItem"; title = "Copy Value"; ObjectID = "U8q-8D-rfr";</note>
+      </trans-unit>
+      <trans-unit id="UEZ-Bs-lqG.title" xml:space="preserve">
+        <source>Capitalize</source>
+        <target state="new">Capitalize</target>
+        <note>Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "UEZ-Bs-lqG";</note>
+      </trans-unit>
+      <trans-unit id="VBD-Ii-Pzh.title" xml:space="preserve">
+        <source>Rename Tab</source>
+        <target state="new">Rename Tab</target>
+        <note>Class = "NSMenuItem"; title = "Rename Tab"; ObjectID = "VBD-Ii-Pzh";</note>
+      </trans-unit>
+      <trans-unit id="Vdr-fp-XzO.title" xml:space="preserve">
+        <source>Hide Others</source>
+        <target state="new">Hide Others</target>
+        <note>Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO";</note>
+      </trans-unit>
+      <trans-unit id="W48-6f-4Dl.title" xml:space="preserve">
+        <source>Edit</source>
+        <target state="new">Edit</target>
+        <note>Class = "NSMenu"; title = "Edit"; ObjectID = "W48-6f-4Dl";</note>
+      </trans-unit>
+      <trans-unit id="WCO-IY-e2a.title" xml:space="preserve">
+        <source>Save Changes</source>
+        <target state="new">Save Changes</target>
+        <note>Class = "NSMenuItem"; title = "Save Changes"; ObjectID = "WCO-IY-e2a";</note>
+      </trans-unit>
+      <trans-unit id="Wir-G8-xbW.title" xml:space="preserve">
+        <source>Show Scripts Panel</source>
+        <target state="new">Show Scripts Panel</target>
+        <note>Class = "NSMenuItem"; title = "Show Scripts Panel"; ObjectID = "Wir-G8-xbW";</note>
+      </trans-unit>
+      <trans-unit id="Xz5-n4-O0W.title" xml:space="preserve">
+        <source>Find…</source>
+        <target state="new">Find…</target>
+        <note>Class = "NSMenuItem"; title = "Find…"; ObjectID = "Xz5-n4-O0W";</note>
+      </trans-unit>
+      <trans-unit id="YEy-JH-Tfz.title" xml:space="preserve">
+        <source>Find and Replace…</source>
+        <target state="new">Find and Replace…</target>
+        <note>Class = "NSMenuItem"; title = "Find and Replace…"; ObjectID = "YEy-JH-Tfz";</note>
+      </trans-unit>
+      <trans-unit id="Ynk-f8-cLZ.title" xml:space="preserve">
+        <source>Start Speaking</source>
+        <target state="new">Start Speaking</target>
+        <note>Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "Ynk-f8-cLZ";</note>
+      </trans-unit>
+      <trans-unit id="Ysv-pt-Pgi.title" xml:space="preserve">
+        <source>Scripts</source>
+        <target state="new">Scripts</target>
+        <note>Class = "NSMenuItem"; title = "Scripts"; ObjectID = "Ysv-pt-Pgi";</note>
+      </trans-unit>
+      <trans-unit id="aGb-Bb-5l5.title" xml:space="preserve">
+        <source>Show History</source>
+        <target state="new">Show History</target>
+        <note>Class = "NSMenuItem"; title = "Show History"; ObjectID = "aGb-Bb-5l5";</note>
+      </trans-unit>
+      <trans-unit id="aUF-d1-5bR.title" xml:space="preserve">
+        <source>Window</source>
+        <target state="new">Window</target>
+        <note>Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR";</note>
+      </trans-unit>
+      <trans-unit id="bib-Uj-vzu.title" xml:space="preserve">
+        <source>File</source>
+        <target state="new">File</target>
+        <note>Class = "NSMenu"; title = "File"; ObjectID = "bib-Uj-vzu";</note>
+      </trans-unit>
+      <trans-unit id="buJ-ug-pKt.title" xml:space="preserve">
+        <source>Use Selection for Find</source>
+        <target state="new">Use Selection for Find</target>
+        <note>Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "buJ-ug-pKt";</note>
+      </trans-unit>
+      <trans-unit id="c8a-y6-VQd.title" xml:space="preserve">
+        <source>Transformations</source>
+        <target state="new">Transformations</target>
+        <note>Class = "NSMenu"; title = "Transformations"; ObjectID = "c8a-y6-VQd";</note>
+      </trans-unit>
+      <trans-unit id="cO5-0U-udT.title" xml:space="preserve">
+        <source>Delete</source>
+        <target state="translated">Delete</target>
+        <note>Class = "NSMenuItem"; title = "Delete"; ObjectID = "cO5-0U-udT";</note>
+      </trans-unit>
+      <trans-unit id="cZy-P9-S4l.title" xml:space="preserve">
+        <source>Scripts</source>
+        <target state="new">Scripts</target>
+        <note>Class = "NSMenu"; title = "Scripts"; ObjectID = "cZy-P9-S4l";</note>
+      </trans-unit>
+      <trans-unit id="csI-qW-l6A.title" xml:space="preserve">
+        <source>Rate on the App Store…</source>
+        <target state="new">Rate on the App Store…</target>
+        <note>Class = "NSMenuItem"; title = "Rate on the App Store…"; ObjectID = "csI-qW-l6A";</note>
+      </trans-unit>
+      <trans-unit id="csY-U8-OT3.title" xml:space="preserve">
+        <source>Format Document</source>
+        <target state="new">Format Document</target>
+        <note>Class = "NSMenuItem"; title = "Format Document"; ObjectID = "csY-U8-OT3";</note>
+      </trans-unit>
+      <trans-unit id="d9M-CD-aMd.title" xml:space="preserve">
+        <source>Make Lower Case</source>
+        <target state="new">Make Lower Case</target>
+        <note>Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "d9M-CD-aMd";</note>
+      </trans-unit>
+      <trans-unit id="dCR-8S-BwO.title" xml:space="preserve">
+        <source>Copy Path</source>
+        <target state="new">Copy Path</target>
+        <note>Class = "NSMenuItem"; title = "Copy Path"; ObjectID = "dCR-8S-BwO";</note>
+      </trans-unit>
+      <trans-unit id="dMs-cI-mzQ.title" xml:space="preserve">
+        <source>File</source>
+        <target state="new">File</target>
+        <note>Class = "NSMenuItem"; title = "File"; ObjectID = "dMs-cI-mzQ";</note>
+      </trans-unit>
+      <trans-unit id="dRJ-4n-Yzg.title" xml:space="preserve">
+        <source>Undo</source>
+        <target state="new">Undo</target>
+        <note>Class = "NSMenuItem"; title = "Undo"; ObjectID = "dRJ-4n-Yzg";</note>
+      </trans-unit>
+      <trans-unit id="efO-Uq-SXc.title" xml:space="preserve">
+        <source>Search Scripts…</source>
+        <target state="new">Search Scripts…</target>
+        <note>Class = "NSMenuItem"; title = "Search Scripts…"; ObjectID = "efO-Uq-SXc";</note>
+      </trans-unit>
+      <trans-unit id="fKb-9G-xoP.title" xml:space="preserve">
+        <source>Run Script</source>
+        <target state="new">Run Script</target>
+        <note>Class = "NSMenuItem"; title = "Run Script"; ObjectID = "fKb-9G-xoP";</note>
+      </trans-unit>
+      <trans-unit id="fh6-p0-RPa.title" xml:space="preserve">
+        <source>Zoom In</source>
+        <target state="new">Zoom In</target>
+        <note>Class = "NSMenuItem"; title = "Zoom In"; ObjectID = "fh6-p0-RPa";</note>
+      </trans-unit>
+      <trans-unit id="fnd-de-F0p.title" xml:space="preserve">
+        <source>Email Us</source>
+        <target state="new">Email Us</target>
+        <note>Class = "NSMenuItem"; title = "Email Us"; ObjectID = "fnd-de-F0p";</note>
+      </trans-unit>
+      <trans-unit id="gDd-0b-yT4.title" xml:space="preserve">
+        <source>Help</source>
+        <target state="new">Help</target>
+        <note>Class = "NSMenuItem"; title = "Help"; ObjectID = "gDd-0b-yT4";</note>
+      </trans-unit>
+      <trans-unit id="gVA-U4-sdL.title" xml:space="preserve">
+        <source>Paste</source>
+        <target state="new">Paste</target>
+        <note>Class = "NSMenuItem"; title = "Paste"; ObjectID = "gVA-U4-sdL";</note>
+      </trans-unit>
+      <trans-unit id="h6l-vU-V02.title" xml:space="preserve">
+        <source>Search…</source>
+        <target state="translated">Search…</target>
+        <note>Class = "NSMenuItem"; title = "Search…"; ObjectID = "h6l-vU-V02";</note>
+      </trans-unit>
+      <trans-unit id="hZP-Zb-bVQ.title" xml:space="preserve">
+        <source>Process with jq…</source>
+        <target state="translated">Process with jq…</target>
+        <note>Class = "NSMenuItem"; title = "Process with jq"; ObjectID = "hZP-Zb-bVQ";</note>
+      </trans-unit>
+      <trans-unit id="hac-a8-7a1.title" xml:space="preserve">
+        <source>In-App Purchase</source>
+        <target state="new">In-App Purchase</target>
+        <note>Class = "NSMenuItem"; title = "In-App Purchase"; ObjectID = "hac-a8-7a1";</note>
+      </trans-unit>
+      <trans-unit id="hbv-fN-anV.title" xml:space="preserve">
+        <source>Feature Requests and Bug Reports</source>
+        <target state="new">Feature Requests and Bug Reports</target>
+        <note>Class = "NSMenuItem"; title = "Feature Requests and Bug Reports"; ObjectID = "hbv-fN-anV";</note>
+      </trans-unit>
+      <trans-unit id="hz9-B4-Xy5.title" xml:space="preserve">
+        <source>Services</source>
+        <target state="new">Services</target>
+        <note>Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5";</note>
+      </trans-unit>
+      <trans-unit id="iLy-NV-ndN.title" xml:space="preserve">
+        <source>Save As…</source>
+        <target state="translated">Save As…</target>
+        <note>Class = "NSMenuItem"; title = "Save As…"; ObjectID = "iLy-NV-ndN";</note>
+      </trans-unit>
+      <trans-unit id="jK5-l4-UWV.title" xml:space="preserve">
+        <source>New from cURL Command</source>
+        <target state="translated">New from cURL Command</target>
+        <note>Class = "NSMenuItem"; title = "New from cURL Command…"; ObjectID = "jK5-l4-UWV";</note>
+      </trans-unit>
+      <trans-unit id="jZb-mL-cT3.title" xml:space="preserve">
+        <source>Integrations</source>
+        <target state="translated">Integrations</target>
+        <note>Class = "NSMenuItem"; title = "Integrations"; ObjectID = "jZb-mL-cT3";</note>
+      </trans-unit>
+      <trans-unit id="jzJ-0R-s3y.title" xml:space="preserve">
+        <source>Website</source>
+        <target state="new">Website</target>
+        <note>Class = "NSMenuItem"; title = "Website"; ObjectID = "jzJ-0R-s3y";</note>
+      </trans-unit>
+      <trans-unit id="kEt-f4-euY.title" xml:space="preserve">
+        <source>Help Localize OK JSON</source>
+        <target state="new">Help Localize OK JSON</target>
+        <note>Class = "NSMenuItem"; title = "Help Localize OK JSON"; ObjectID = "kEt-f4-euY";</note>
+      </trans-unit>
+      <trans-unit id="kIP-vf-haE.title" xml:space="preserve">
+        <source>Show Sidebar</source>
+        <target state="translated">Show Sidebar</target>
+        <note>Class = "NSMenuItem"; title = "Show Sidebar"; ObjectID = "kIP-vf-haE";</note>
+      </trans-unit>
+      <trans-unit id="lLD-Ia-Gxb.title" xml:space="preserve">
+        <source>Zoom Out</source>
+        <target state="new">Zoom Out</target>
+        <note>Class = "NSMenuItem"; title = "Zoom Out"; ObjectID = "lLD-Ia-Gxb";</note>
+      </trans-unit>
+      <trans-unit id="lUp-aB-wHR.title" xml:space="preserve">
+        <source>Copy Output</source>
+        <target state="new">Copy Output</target>
+        <note>Class = "NSMenuItem"; title = "Copy Output"; ObjectID = "lUp-aB-wHR";</note>
+      </trans-unit>
+      <trans-unit id="lo6-O3-LhE.title" xml:space="preserve">
+        <source>Today</source>
+        <target state="new">Today</target>
+        <note>Class = "NSMenuItem"; title = "Today"; ObjectID = "lo6-O3-LhE";</note>
+      </trans-unit>
+      <trans-unit id="lv5-jX-ZrW.title" xml:space="preserve">
+        <source>Zoom In Node</source>
+        <target state="new">Zoom In Node</target>
+        <note>Class = "NSMenuItem"; title = "Zoom In Node"; ObjectID = "lv5-jX-ZrW";</note>
+      </trans-unit>
+      <trans-unit id="m9t-HE-ocM.title" xml:space="preserve">
+        <source>Navigate</source>
+        <target state="new">Navigate</target>
+        <note>Class = "NSMenu"; title = "Navigate"; ObjectID = "m9t-HE-ocM";</note>
+      </trans-unit>
+      <trans-unit id="mGB-Jm-O8v.title" xml:space="preserve">
+        <source>Query with JSONPath…</source>
+        <target state="new">Query with JSONPath…</target>
+        <note>Class = "NSMenuItem"; title = "Query with JSONPath…"; ObjectID = "mGB-Jm-O8v";</note>
+      </trans-unit>
+      <trans-unit id="mfB-WD-Ngb.title" xml:space="preserve">
+        <source>New Viewer</source>
+        <target state="new">New Viewer</target>
+        <note>Class = "NSMenuItem"; title = "New Viewer"; ObjectID = "mfB-WD-Ngb";</note>
+      </trans-unit>
+      <trans-unit id="mmL-kb-gE7.title" xml:space="preserve">
+        <source>Rename…</source>
+        <target state="translated">Rename…</target>
+        <note>Class = "NSMenuItem"; title = "Rename…"; ObjectID = "mmL-kb-gE7";</note>
+      </trans-unit>
+      <trans-unit id="mv2-H6-jeo.title" xml:space="preserve">
+        <source>New from Pasteboard</source>
+        <target state="new">New from Pasteboard</target>
+        <note>Class = "NSMenuItem"; title = "New from Pasteboard"; ObjectID = "mv2-H6-jeo";</note>
+      </trans-unit>
+      <trans-unit id="o7r-n1-Ckl.title" xml:space="preserve">
+        <source>Copy Key</source>
+        <target state="new">Copy Key</target>
+        <note>Class = "NSMenuItem"; title = "Copy Key"; ObjectID = "o7r-n1-Ckl";</note>
+      </trans-unit>
+      <trans-unit id="o9f-3s-xZk.title" xml:space="preserve">
+        <source>Hide Sidebar</source>
+        <target state="new">Hide Sidebar</target>
+        <note>Class = "NSMenuItem"; title = "Hide Sidebar"; ObjectID = "o9f-3s-xZk";</note>
+      </trans-unit>
+      <trans-unit id="oGr-oy-UNH.title" xml:space="preserve">
+        <source>Actual Size</source>
+        <target state="new">Actual Size</target>
+        <note>Class = "NSMenuItem"; title = "Actual Size"; ObjectID = "oGr-oy-UNH";</note>
+      </trans-unit>
+      <trans-unit id="p2Z-QR-UnT.title" xml:space="preserve">
+        <source>Window</source>
+        <target state="translated">Window</target>
+        <note>Class = "NSWindow"; title = "OK JSON"; ObjectID = "p2Z-QR-UnT";</note>
+      </trans-unit>
+      <trans-unit id="pY1-Jt-fvz.title" xml:space="preserve">
+        <source>Rename History Item</source>
+        <target state="new">Rename History Item</target>
+        <note>Class = "NSMenuItem"; title = "Rename History Item"; ObjectID = "pY1-Jt-fvz";</note>
+      </trans-unit>
+      <trans-unit id="pa3-QI-u2k.title" xml:space="preserve">
+        <source>Delete</source>
+        <target state="new">Delete</target>
+        <note>Class = "NSMenuItem"; title = "Delete"; ObjectID = "pa3-QI-u2k";</note>
+      </trans-unit>
+      <trans-unit id="q09-fT-Sye.title" xml:space="preserve">
+        <source>Find Next</source>
+        <target state="new">Find Next</target>
+        <note>Class = "NSMenuItem"; title = "Find Next"; ObjectID = "q09-fT-Sye";</note>
+      </trans-unit>
+      <trans-unit id="rfN-Hp-KMy.title" xml:space="preserve">
+        <source>Toggle Node</source>
+        <target state="new">Toggle Node</target>
+        <note>Class = "NSMenuItem"; title = "Toggle Node"; ObjectID = "rfN-Hp-KMy";</note>
+      </trans-unit>
+      <trans-unit id="snW-S8-Cw5.title" xml:space="preserve">
+        <source>Show Toolbar</source>
+        <target state="new">Show Toolbar</target>
+        <note>Class = "NSMenuItem"; title = "Show Toolbar"; ObjectID = "snW-S8-Cw5";</note>
+      </trans-unit>
+      <trans-unit id="sqR-gs-VnK.title" xml:space="preserve">
+        <source>Run Script</source>
+        <target state="new">Run Script</target>
+        <note>Class = "NSMenuItem"; title = "Run Script"; ObjectID = "sqR-gs-VnK";</note>
+      </trans-unit>
+      <trans-unit id="uQy-DD-JDr.title" xml:space="preserve">
+        <source>OK JSON</source>
+        <target state="new">OK JSON</target>
+        <note>Class = "NSMenu"; title = "OK JSON"; ObjectID = "uQy-DD-JDr";</note>
+      </trans-unit>
+      <trans-unit id="uRl-iY-unG.title" xml:space="preserve">
+        <source>Cut</source>
+        <target state="new">Cut</target>
+        <note>Class = "NSMenuItem"; title = "Cut"; ObjectID = "uRl-iY-unG";</note>
+      </trans-unit>
+      <trans-unit id="vmV-6d-7jI.title" xml:space="preserve">
+        <source>Make Upper Case</source>
+        <target state="new">Make Upper Case</target>
+        <note>Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "vmV-6d-7jI";</note>
+      </trans-unit>
+      <trans-unit id="w7d-Pq-GW9.title" xml:space="preserve">
+        <source>Pin to Top</source>
+        <target state="new">Pin to Top</target>
+        <note>Class = "NSMenuItem"; title = "Pin to Top"; ObjectID = "w7d-Pq-GW9";</note>
+      </trans-unit>
+      <trans-unit id="wdf-4M-wcO.title" xml:space="preserve">
+        <source>Compare with JSON Patch…</source>
+        <target state="new">Compare with JSON Patch…</target>
+        <note>Class = "NSMenuItem"; title = "Compare with JSON Patch…"; ObjectID = "wdf-4M-wcO";</note>
+      </trans-unit>
+      <trans-unit id="x3v-GG-iWU.title" xml:space="preserve">
+        <source>Copy</source>
+        <target state="new">Copy</target>
+        <note>Class = "NSMenuItem"; title = "Copy"; ObjectID = "x3v-GG-iWU";</note>
+      </trans-unit>
+      <trans-unit id="xAh-Xx-mIM.title" xml:space="preserve">
+        <source>Reload Scripts</source>
+        <target state="new">Reload Scripts</target>
+        <note>Class = "NSMenuItem"; title = "Reload Scripts"; ObjectID = "xAh-Xx-mIM";</note>
+      </trans-unit>
+      <trans-unit id="xrE-MZ-jX0.title" xml:space="preserve">
+        <source>Speech</source>
+        <target state="new">Speech</target>
+        <note>Class = "NSMenuItem"; title = "Speech"; ObjectID = "xrE-MZ-jX0";</note>
+      </trans-unit>
+      <trans-unit id="yU4-KE-iC4.title" xml:space="preserve">
+        <source>Check for Updates…</source>
+        <target state="new">Check for Updates…</target>
+        <note>Class = "NSMenuItem"; title = "Check for Updates…"; ObjectID = "yU4-KE-iC4";</note>
+      </trans-unit>
+      <trans-unit id="zIo-Gn-edq.title" xml:space="preserve">
+        <source>Last Week</source>
+        <target state="new">Last Week</target>
+        <note>Class = "NSMenuItem"; title = "Last Week"; ObjectID = "zIo-Gn-edq";</note>
+      </trans-unit>
+      <trans-unit id="zTL-Nk-bRR.title" xml:space="preserve">
+        <source>Toggle All</source>
+        <target state="new">Toggle All</target>
+        <note>Class = "NSMenuItem"; title = "Toggle All"; ObjectID = "zTL-Nk-bRR";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="OK JSON/Localizations/InfoPlist.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.1" build-num="15C5028h"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>OK JSON</source>
+        <target state="translated">OK JSON</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>OK JSON</source>
+        <target state="new">OK JSON</target>
+        <note>InfoPlist.strings
+  OKJSON
+
+  Created by Francis Feng on 2021/6/23.</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>Copyright © 2021—2023 Anybox LTD. All rights reserved.</source>
+        <target state="new">Copyright © 2021—2023 Anybox LTD. All rights reserved.</target>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="OK JSON/Localizations/Localizable.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.1" build-num="15C5028h"/>
+    </header>
+    <body>
+      <trans-unit id="" xml:space="preserve">
+        <source/>
+        <target state="new"/>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%d Folders" xml:space="preserve">
+        <source>%d Folders</source>
+        <target state="translated">%d Folders</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%d Scripts" xml:space="preserve">
+        <source>%d Scripts</source>
+        <target state="translated">%d Scripts</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%d character" xml:space="preserve">
+        <source>%d character</source>
+        <target state="translated">%d character</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%d characters" xml:space="preserve">
+        <source>%d characters</source>
+        <target state="translated">%d characters</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%d items" xml:space="preserve">
+        <source>%d items</source>
+        <target state="translated">%d items</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%d line" xml:space="preserve">
+        <source>%d line</source>
+        <target state="translated">%d line</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%d lines" xml:space="preserve">
+        <source>%d lines</source>
+        <target state="translated">%d lines</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%d word" xml:space="preserve">
+        <source>%d word</source>
+        <target state="translated">%d word</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="%d words" xml:space="preserve">
+        <source>%d words</source>
+        <target state="translated">%d words</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="1 Script" xml:space="preserve">
+        <source>1 Script</source>
+        <target state="translated">1 Script</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="1 item" xml:space="preserve">
+        <source>1 item</source>
+        <target state="translated">1 item</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="1. Double-click to run the script." xml:space="preserve">
+        <source>1. Double-click to run the script.</source>
+        <target state="translated">1. Double-click to run the script.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="1. Drag-and-drop node outside of the app to insert as text or save as file." xml:space="preserve">
+        <source>1. Drag-and-drop node outside of the app to insert as text or save as file.</source>
+        <target state="translated">1. Drag-and-drop node outside of the app to insert as text or save as file.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="2. Double-click, ⌘ + click the link, or press Return to open the link in default browser." xml:space="preserve">
+        <source>2. Double-click, ⌘ + click the link, or press Return to open the link in default browser.</source>
+        <target state="translated">2. Double-click, ⌘ + click the link, or press Return to open the link in default browser.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="2. Press ⌘ + K to search and run script." xml:space="preserve">
+        <source>2. Press ⌘ + K to search and run script.</source>
+        <target state="translated">2. Press ⌘ + K to search and run script.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="3. Drag-and-drop JSON file to run the script." xml:space="preserve">
+        <source>3. Drag-and-drop JSON file to run the script.</source>
+        <target state="translated">3. Drag-and-drop JSON file to run the script.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="3. You can also open or drag-and-drop plist files to OK JSON, which will be converted to JSON if possible." xml:space="preserve">
+        <source>3. You can also open or drag-and-drop plist files to OK JSON, which will be converted to JSON if possible.</source>
+        <target state="translated">3. You can also open or drag-and-drop plist files to OK JSON, which will be converted to JSON if possible.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="4. Click nodes in this path bar to navigate to other parent nodes. Right-click to copy current path." xml:space="preserve">
+        <source>4. Click nodes in this path bar to navigate to other parent nodes. Right-click to copy current path.</source>
+        <target state="translated">4. Click nodes in this path bar to navigate to other parent nodes. Right-click to copy current path.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id=":" xml:space="preserve">
+        <source>:</source>
+        <target state="translated">:</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="?" xml:space="preserve">
+        <source>?</source>
+        <target state="translated">?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="About" xml:space="preserve">
+        <source>About</source>
+        <target state="translated">About</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Acknowledgements" xml:space="preserve">
+        <source>Acknowledgements</source>
+        <target state="translated">Acknowledgements</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="All" xml:space="preserve">
+        <source>All</source>
+        <target state="translated">All</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="All of its child folders will also be deleted. You can’t undo this action." xml:space="preserve">
+        <source>All of its child folders will also be deleted. You can’t undo this action.</source>
+        <target state="translated">All of its child folders will also be deleted. You can’t undo this action.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="All of their child folders will also be deleted. You can’t undo this action." xml:space="preserve">
+        <source>All of their child folders will also be deleted. You can’t undo this action.</source>
+        <target state="translated">All of their child folders will also be deleted. You can’t undo this action.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Already purchased?" xml:space="preserve">
+        <source>Already purchased?</source>
+        <target state="translated">Already purchased?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Appearance" xml:space="preserve">
+        <source>Appearance</source>
+        <target state="translated">Appearance</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to delete folder “%@”?" xml:space="preserve">
+        <source>Are you sure you want to delete folder “%@”?</source>
+        <target state="translated">Are you sure you want to delete folder “%@”?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to delete these %d folders?" xml:space="preserve">
+        <source>Are you sure you want to delete these %d folders?</source>
+        <target state="translated">Are you sure you want to delete these %d folders?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Are you sure you want to discard your changes and continue?" xml:space="preserve">
+        <source>Are you sure you want to discard your changes and continue?</source>
+        <target state="translated">Are you sure you want to discard your changes and continue?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ascending" xml:space="preserve">
+        <source>Ascending</source>
+        <target state="translated">Ascending</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Auto" xml:space="preserve">
+        <source>Auto</source>
+        <target state="translated">Auto</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Automatic" xml:space="preserve">
+        <source>Automatic</source>
+        <target state="translated">Automatic</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Automatically check for updates" xml:space="preserve">
+        <source>Automatically check for updates</source>
+        <target state="translated">Automatically check for updates</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Automatically copy" xml:space="preserve">
+        <source>Automatically copy</source>
+        <target state="translated">Automatically copy</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Automatically copy prettified JSON string after creating a new viewer." xml:space="preserve">
+        <source>Automatically copy prettified JSON string after creating a new viewer.</source>
+        <target state="translated">Automatically copy prettified JSON string after creating a new viewer.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Back/Forward" xml:space="preserve">
+        <source>Back/Forward</source>
+        <target state="translated">Back/Forward</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Behaviors" xml:space="preserve">
+        <source>Behaviors</source>
+        <target state="translated">Behaviors</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Both of text views’ content are not invalid JSON strings." xml:space="preserve">
+        <source>Both of text views’ content are not invalid JSON strings.</source>
+        <target state="translated">Both of text views’ content are not invalid JSON strings.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Bracket Notation" xml:space="preserve">
+        <source>Bracket Notation</source>
+        <target state="translated">Bracket Notation</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cancel" xml:space="preserve">
+        <source>Cancel</source>
+        <target state="translated">Cancel</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Cannot load offer" xml:space="preserve">
+        <source>Cannot load offer</source>
+        <target state="translated">Cannot load offer</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Case Sensitive" xml:space="preserve">
+        <source>Case Sensitive</source>
+        <target state="translated">Case Sensitive</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Change All Folder Icons" xml:space="preserve">
+        <source>Change All Folder Icons</source>
+        <target state="translated">Change All Folder Icons</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Change Folder Icon" xml:space="preserve">
+        <source>Change Folder Icon</source>
+        <target state="translated">Change Folder Icon</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Check for Updates" xml:space="preserve">
+        <source>Check for Updates</source>
+        <target state="translated">Check for Updates</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Click “More Info” to check out the APIs and more." xml:space="preserve">
+        <source>Click “More Info” to check out the APIs and more.</source>
+        <target state="translated">Click “More Info” to check out the APIs and more.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Click “Reload Scripts” to reload your newly added scripts." xml:space="preserve">
+        <source>Click “Reload Scripts” to reload your newly added scripts.</source>
+        <target state="translated">Click “Reload Scripts” to reload your newly added scripts.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Click “Select Folder…” to select a script folder for your scripts." xml:space="preserve">
+        <source>Click “Select Folder…” to select a script folder for your scripts.</source>
+        <target state="translated">Click “Select Folder…” to select a script folder for your scripts.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Close" xml:space="preserve">
+        <source>Close</source>
+        <target state="translated">Close</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Collapse All" xml:space="preserve">
+        <source>Collapse All</source>
+        <target state="translated">Collapse All</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Collapse Node" xml:space="preserve">
+        <source>Collapse Node</source>
+        <target state="translated">Collapse Node</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Color Theme" xml:space="preserve">
+        <source>Color Theme</source>
+        <target state="translated">Color Theme</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Color theme" xml:space="preserve">
+        <source>Color theme</source>
+        <target state="translated">Color theme</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Compact" xml:space="preserve">
+        <source>Compact</source>
+        <target state="translated">Compact</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Compare with JSON Patch" xml:space="preserve">
+        <source>Compare with JSON Patch</source>
+        <target state="translated">Compare with JSON Patch</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Contains" xml:space="preserve">
+        <source>Contains</source>
+        <target state="translated">Contains</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copy" xml:space="preserve">
+        <source>Copy</source>
+        <target state="translated">Copy</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copy As Minified JSON" xml:space="preserve">
+        <source>Copy As Minified JSON</source>
+        <target state="translated">Copy As Minified JSON</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copy Example Script" xml:space="preserve">
+        <source>Copy Example Script</source>
+        <target state="translated">Copy Example Script</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copy Key" xml:space="preserve">
+        <source>Copy Key</source>
+        <target state="translated">Copy Key</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copy Output" xml:space="preserve">
+        <source>Copy Output</source>
+        <target state="translated">Copy Output</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copy Path" xml:space="preserve">
+        <source>Copy Path</source>
+        <target state="translated">Copy Path</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copy Value" xml:space="preserve">
+        <source>Copy Value</source>
+        <target state="translated">Copy Value</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Copyright © 2021—2023 Anybox LTD. All rights reserved." xml:space="preserve">
+        <source>Copyright © 2021—2023 Anybox LTD. All rights reserved.</source>
+        <target state="translated">Copyright © 2021—2023 Anybox LTD. All rights reserved.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Create script files in the script folder. Click “Copy Example Script” to to start writing your own." xml:space="preserve">
+        <source>Create script files in the script folder. Click “Copy Example Script” to to start writing your own.</source>
+        <target state="translated">Create script files in the script folder. Click “Copy Example Script” to to start writing your own.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Current Node: " xml:space="preserve">
+        <source>Current Node: </source>
+        <target state="translated">Current Node: </target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Dark" xml:space="preserve">
+        <source>Dark</source>
+        <target state="translated">Dark</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Date Added" xml:space="preserve">
+        <source>Date Added</source>
+        <target state="translated">Date Added</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Date Last Opened" xml:space="preserve">
+        <source>Date Last Opened</source>
+        <target state="translated">Date Last Opened</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Delete" xml:space="preserve">
+        <source>Delete</source>
+        <target state="translated">Delete</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Delete Folder" xml:space="preserve">
+        <source>Delete Folder</source>
+        <target state="translated">Delete Folder</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Descending" xml:space="preserve">
+        <source>Descending</source>
+        <target state="translated">Descending</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Disable both options to improve performance. Depending on the actual JSON structure, the improvement can be as significant as 20x." xml:space="preserve">
+        <source>Disable both options to improve performance. Depending on the actual JSON structure, the improvement can be as significant as 20x.</source>
+        <target state="translated">Disable both options to improve performance. Depending on the actual JSON structure, the improvement can be as significant as 20x.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Discard" xml:space="preserve">
+        <source>Discard</source>
+        <target state="translated">Discard</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Discard Changes" xml:space="preserve">
+        <source>Discard Changes</source>
+        <target state="translated">Discard Changes</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Do you want to install OK JSON extension for Raycast?" xml:space="preserve">
+        <source>Do you want to install OK JSON extension for Raycast?</source>
+        <target state="translated">Do you want to install OK JSON extension for Raycast?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Documentation" xml:space="preserve">
+        <source>Documentation</source>
+        <target state="translated">Documentation</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Dot Notation" xml:space="preserve">
+        <source>Dot Notation</source>
+        <target state="translated">Dot Notation</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Edit Script File" xml:space="preserve">
+        <source>Edit Script File</source>
+        <target state="translated">Edit Script File</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Edited" xml:space="preserve">
+        <source>Edited</source>
+        <target state="translated">Edited</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Editor" xml:space="preserve">
+        <source>Editor</source>
+        <target state="translated">Editor</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Editor disabled. Too many nodes." xml:space="preserve">
+        <source>Editor disabled. Too many nodes.</source>
+        <target state="translated">Editor disabled. Too many nodes.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Ends With" xml:space="preserve">
+        <source>Ends With</source>
+        <target state="translated">Ends With</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Expand All" xml:space="preserve">
+        <source>Expand All</source>
+        <target state="translated">Expand All</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Expand Node" xml:space="preserve">
+        <source>Expand Node</source>
+        <target state="translated">Expand Node</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Expand all child nodes by default" xml:space="preserve">
+        <source>Expand all child nodes by default</source>
+        <target state="translated">Expand all child nodes by default</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Extra Large" xml:space="preserve">
+        <source>Extra Large</source>
+        <target state="translated">Extra Large</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Failed to restore purchase. Can’t find purchase history." xml:space="preserve">
+        <source>Failed to restore purchase. Can’t find purchase history.</source>
+        <target state="translated">Failed to restore purchase. Can’t find purchase history.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="File Not Found" xml:space="preserve">
+        <source>File Not Found</source>
+        <target state="translated">File Not Found</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="First text view’s content is not valid JSON string." xml:space="preserve">
+        <source>First text view’s content is not valid JSON string.</source>
+        <target state="translated">First text view’s content is not valid JSON string.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Flatten results" xml:space="preserve">
+        <source>Flatten results</source>
+        <target state="translated">Flatten results</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Folder" xml:space="preserve">
+        <source>Folder</source>
+        <target state="translated">Folder</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Folders" xml:space="preserve">
+        <source>Folders</source>
+        <target state="translated">Folders</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Font" xml:space="preserve">
+        <source>Font</source>
+        <target state="translated">Font</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="General" xml:space="preserve">
+        <source>General</source>
+        <target state="translated">General</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Go Back" xml:space="preserve">
+        <source>Go Back</source>
+        <target state="translated">Go Back</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Go Forward" xml:space="preserve">
+        <source>Go Forward</source>
+        <target state="translated">Go Forward</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Go to “Settings → Scripts” and select scripts folder." xml:space="preserve">
+        <source>Go to “Settings → Scripts” and select scripts folder.</source>
+        <target state="translated">Go to “Settings → Scripts” and select scripts folder.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hide Editor" xml:space="preserve">
+        <source>Hide Editor</source>
+        <target state="translated">Hide Editor</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hide Navigator" xml:space="preserve">
+        <source>Hide Navigator</source>
+        <target state="translated">Hide Navigator</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hide Script Collection" xml:space="preserve">
+        <source>Hide Script Collection</source>
+        <target state="translated">Hide Script Collection</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Hide Sidebar" xml:space="preserve">
+        <source>Hide Sidebar</source>
+        <target state="translated">Hide Sidebar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="History" xml:space="preserve">
+        <source>History</source>
+        <target state="translated">History</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="In-App Purchase" xml:space="preserve">
+        <source>In-App Purchase</source>
+        <target state="translated">In-App Purchase</target>
+        <note>In-App Purchase</note>
+      </trans-unit>
+      <trans-unit id="Install Now" xml:space="preserve">
+        <source>Install Now</source>
+        <target state="translated">Install Now</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Introduction of Scripts" xml:space="preserve">
+        <source>Introduction of Scripts</source>
+        <target state="translated">Introduction of Scripts</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Invalid URL. Should starts with “http” or “https”." xml:space="preserve">
+        <source>Invalid URL. Should starts with “http” or “https”.</source>
+        <target state="translated">Invalid URL. Should starts with “http” or “https”.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Key Copied" xml:space="preserve">
+        <source>Key Copied</source>
+        <target state="translated">Key Copied</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Large" xml:space="preserve">
+        <source>Large</source>
+        <target state="translated">Large</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Last Week" xml:space="preserve">
+        <source>Last Week</source>
+        <target state="translated">Last Week</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Last run: %@" xml:space="preserve">
+        <source>Last run: %@</source>
+        <target state="translated">Last run: %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Last run: Never" xml:space="preserve">
+        <source>Last run: Never</source>
+        <target state="translated">Last run: Never</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Length: %d" xml:space="preserve">
+        <source>Length: %d</source>
+        <target state="translated">Length: %d</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="License" xml:space="preserve">
+        <source>License</source>
+        <target state="translated">License</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="License Activated" xml:space="preserve">
+        <source>License Activated</source>
+        <target state="translated">License Activated</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Light" xml:space="preserve">
+        <source>Light</source>
+        <target state="translated">Light</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Line Wrapping" xml:space="preserve">
+        <source>Line Wrapping</source>
+        <target state="translated">Line Wrapping</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Loading" xml:space="preserve">
+        <source>Loading</source>
+        <target state="translated">Loading</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Medium" xml:space="preserve">
+        <source>Medium</source>
+        <target state="translated">Medium</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Missing JSON File URL" xml:space="preserve">
+        <source>Missing JSON File URL</source>
+        <target state="translated">Missing JSON File URL</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="More Apps By Us" xml:space="preserve">
+        <source>More Apps By Us</source>
+        <target state="translated">More Apps By Us</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="More Info" xml:space="preserve">
+        <source>More Info</source>
+        <target state="translated">More Info</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Multiple Windows" xml:space="preserve">
+        <source>Multiple Windows</source>
+        <target state="translated">Multiple Windows</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Name" xml:space="preserve">
+        <source>Name</source>
+        <target state="translated">Name</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Navigator" xml:space="preserve">
+        <source>Navigator</source>
+        <target state="translated">Navigator</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Never Show Again" xml:space="preserve">
+        <source>Never Show Again</source>
+        <target state="translated">Never Show Again</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New Child Folder of “%@”" xml:space="preserve">
+        <source>New Child Folder of “%@”</source>
+        <target state="translated">New Child Folder of “%@”</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New Folder" xml:space="preserve">
+        <source>New Folder</source>
+        <target state="translated">New Folder</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New Version" xml:space="preserve">
+        <source>New Version</source>
+        <target state="translated">New Version</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New Viewer from Pasteboard" xml:space="preserve">
+        <source>New Viewer from Pasteboard</source>
+        <target state="translated">New Viewer from Pasteboard</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New Viewer from URL" xml:space="preserve">
+        <source>New Viewer from URL</source>
+        <target state="translated">New Viewer from URL</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New Viewer from cURL Command" xml:space="preserve">
+        <source>New Viewer from cURL Command</source>
+        <target state="translated">New Viewer from cURL Command</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New from" xml:space="preserve">
+        <source>New from</source>
+        <target state="translated">New from</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New from Pasteboard" xml:space="preserve">
+        <source>New from Pasteboard</source>
+        <target state="translated">New from Pasteboard</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New from URL" xml:space="preserve">
+        <source>New from URL</source>
+        <target state="translated">New from URL</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New from cURL Command" xml:space="preserve">
+        <source>New from cURL Command</source>
+        <target state="translated">New from cURL Command</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Newest First" xml:space="preserve">
+        <source>Newest First</source>
+        <target state="translated">Newest First</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No History Selected" xml:space="preserve">
+        <source>No History Selected</source>
+        <target state="translated">No History Selected</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No Results" xml:space="preserve">
+        <source>No Results</source>
+        <target state="translated">No Results</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No Scripts Folder" xml:space="preserve">
+        <source>No Scripts Folder</source>
+        <target state="translated">No Scripts Folder</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No valid JSON string is found in URL Scheme Query." xml:space="preserve">
+        <source>No valid JSON string is found in URL Scheme Query.</source>
+        <target state="translated">No valid JSON string is found in URL Scheme Query.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No valid JSON string is found in pasteboard." xml:space="preserve">
+        <source>No valid JSON string is found in pasteboard.</source>
+        <target state="translated">No valid JSON string is found in pasteboard.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No valid URL is found in pasteboard." xml:space="preserve">
+        <source>No valid URL is found in pasteboard.</source>
+        <target state="translated">No valid URL is found in pasteboard.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No valid cURL Command is found in pasteboard." xml:space="preserve">
+        <source>No valid cURL Command is found in pasteboard.</source>
+        <target state="translated">No valid cURL Command is found in pasteboard.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="No valid string is found." xml:space="preserve">
+        <source>No valid string is found.</source>
+        <target state="translated">No valid string is found.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Not JSON String" xml:space="preserve">
+        <source>Not JSON String</source>
+        <target state="translated">Not JSON String</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Not JSON String in Selected Text" xml:space="preserve">
+        <source>Not JSON String in Selected Text</source>
+        <target state="translated">Not JSON String in Selected Text</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Not cURL Command" xml:space="preserve">
+        <source>Not cURL Command</source>
+        <target state="translated">Not cURL Command</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Not selected" xml:space="preserve">
+        <source>Not selected</source>
+        <target state="translated">Not selected</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="OK" xml:space="preserve">
+        <source>OK</source>
+        <target state="translated">OK</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="OK JSON is made possible by the following projects:" xml:space="preserve">
+        <source>OK JSON is made possible by the following projects:</source>
+        <target state="translated">OK JSON is made possible by the following projects:</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="OK JSON will read the file or string in pasteboard and set it as the input to the script when no node is selected in Navigator." xml:space="preserve">
+        <source>OK JSON will read the file or string in pasteboard and set it as the input to the script when no node is selected in Navigator.</source>
+        <target state="translated">OK JSON will read the file or string in pasteboard and set it as the input to the script when no node is selected in Navigator.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Oldest First" xml:space="preserve">
+        <source>Oldest First</source>
+        <target state="translated">Oldest First</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Only Properties" xml:space="preserve">
+        <source>Only Properties</source>
+        <target state="translated">Only Properties</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Only Values" xml:space="preserve">
+        <source>Only Values</source>
+        <target state="translated">Only Values</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Only the newest 200 unsorted items will be saved to History. To avoid automatic deletion, drag-and-drop the items to a folder. &#10;&#10;To remove items from a folder, drag-and-drop the items to “Unsorted”.&#10;&#10;Also, large JSON string will not be saved to History." xml:space="preserve">
+        <source>Only the newest 200 unsorted items will be saved to History. To avoid automatic deletion, drag-and-drop the items to a folder. 
+
+To remove items from a folder, drag-and-drop the items to “Unsorted”.
+
+Also, large JSON string will not be saved to History.</source>
+        <target state="translated">Only the newest 200 unsorted items will be saved to History. To avoid automatic deletion, drag-and-drop the items to a folder. 
+
+To remove items from a folder, drag-and-drop the items to “Unsorted”.
+
+Also, large JSON string will not be saved to History.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open" xml:space="preserve">
+        <source>Open</source>
+        <target state="translated">Open</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open File in New Viewer…" xml:space="preserve">
+        <source>Open File in New Viewer…</source>
+        <target state="translated">Open File in New Viewer…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open JSON File" xml:space="preserve">
+        <source>Open JSON File</source>
+        <target state="translated">Open JSON File</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open New JSON Patch Window…" xml:space="preserve">
+        <source>Open New JSON Patch Window…</source>
+        <target state="translated">Open New JSON Patch Window…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open New Viewer" xml:space="preserve">
+        <source>Open New Viewer</source>
+        <target state="translated">Open New Viewer</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open in Browser" xml:space="preserve">
+        <source>Open in Browser</source>
+        <target state="translated">Open in Browser</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open in New Viewer" xml:space="preserve">
+        <source>Open in New Viewer</source>
+        <target state="translated">Open in New Viewer</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Open new viewer as tab" xml:space="preserve">
+        <source>Open new viewer as tab</source>
+        <target state="translated">Open new viewer as tab</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Parent" xml:space="preserve">
+        <source>Parent</source>
+        <target state="translated">Parent</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Parent Property" xml:space="preserve">
+        <source>Parent Property</source>
+        <target state="translated">Parent Property</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Parse in New Viewer" xml:space="preserve">
+        <source>Parse in New Viewer</source>
+        <target state="translated">Parse in New Viewer</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Path" xml:space="preserve">
+        <source>Path</source>
+        <target state="translated">Path</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Path Copied" xml:space="preserve">
+        <source>Path Copied</source>
+        <target state="translated">Path Copied</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Path notation" xml:space="preserve">
+        <source>Path notation</source>
+        <target state="translated">Path notation</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Pin to Top" xml:space="preserve">
+        <source>Pin to Top</source>
+        <target state="translated">Pin to Top</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Pointer" xml:space="preserve">
+        <source>Pointer</source>
+        <target state="translated">Pointer</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Press ⌘ + K to search scripts or right-click node in the navigator and select the script you want to run in the menu." xml:space="preserve">
+        <source>Press ⌘ + K to search scripts or right-click node in the navigator and select the script you want to run in the menu.</source>
+        <target state="translated">Press ⌘ + K to search scripts or right-click node in the navigator and select the script you want to run in the menu.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Press ⌘ + Return to show the script file in Finder." xml:space="preserve">
+        <source>Press ⌘ + Return to show the script file in Finder.</source>
+        <target state="translated">Press ⌘ + Return to show the script file in Finder.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Press ⌥ + Return to edit the script file." xml:space="preserve">
+        <source>Press ⌥ + Return to edit the script file.</source>
+        <target state="translated">Press ⌥ + Return to edit the script file.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Pro Feature: %@" xml:space="preserve">
+        <source>Pro Feature: %@</source>
+        <target state="translated">Pro Feature: %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Pro Member Since %@" xml:space="preserve">
+        <source>Pro Member Since %@</source>
+        <target state="translated">Pro Member Since %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Process JSON string with custom scripts powered by JavaScriptCore." xml:space="preserve">
+        <source>Process JSON string with custom scripts powered by JavaScriptCore.</source>
+        <target state="translated">Process JSON string with custom scripts powered by JavaScriptCore.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Process with jq" xml:space="preserve">
+        <source>Process with jq</source>
+        <target state="translated">Process with jq</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Properties and Values" xml:space="preserve">
+        <source>Properties and Values</source>
+        <target state="translated">Properties and Values</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Purchase Now" xml:space="preserve">
+        <source>Purchase Now</source>
+        <target state="translated">Purchase Now</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Purchase Now for" xml:space="preserve">
+        <source>Purchase Now for </source>
+        <target state="translated">Purchase Now for </target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Purchase OK JSON Pro with one-time payment and get free lifetime updates, including major versions!" xml:space="preserve">
+        <source>Purchase OK JSON Pro with one-time payment and get free lifetime updates, including major versions!</source>
+        <target state="translated">Purchase OK JSON Pro with one-time payment and get free lifetime updates, including major versions!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Purchase completed. Thanks for your support and enjoy!" xml:space="preserve">
+        <source>Purchase completed. Thanks for your support and enjoy!</source>
+        <target state="translated">Purchase completed. Thanks for your support and enjoy!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Purchase restored. Thanks for your support and enjoy!" xml:space="preserve">
+        <source>Purchase restored. Thanks for your support and enjoy!</source>
+        <target state="translated">Purchase restored. Thanks for your support and enjoy!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Purchase was cancelled." xml:space="preserve">
+        <source>Purchase was cancelled.</source>
+        <target state="translated">Purchase was cancelled.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Query" xml:space="preserve">
+        <source>Query</source>
+        <target state="translated">Query</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Query with JSONPath" xml:space="preserve">
+        <source>Query with JSONPath</source>
+        <target state="translated">Query with JSONPath</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Quick Look" xml:space="preserve">
+        <source>Quick Look</source>
+        <target state="translated">Quick Look</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Quick Look Script File" xml:space="preserve">
+        <source>Quick Look Script File</source>
+        <target state="translated">Quick Look Script File</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Quit OK JSON" xml:space="preserve">
+        <source>Quit OK JSON</source>
+        <target state="translated">Quit OK JSON</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Raw output" xml:space="preserve">
+        <source>Raw output</source>
+        <target state="translated">Raw output</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Regular" xml:space="preserve">
+        <source>Regular</source>
+        <target state="translated">Regular</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Reload Scripts" xml:space="preserve">
+        <source>Reload Scripts</source>
+        <target state="translated">Reload Scripts</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rename" xml:space="preserve">
+        <source>Rename</source>
+        <target state="translated">Rename</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rename Folder" xml:space="preserve">
+        <source>Rename Folder</source>
+        <target state="translated">Rename Folder</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rename History Item" xml:space="preserve">
+        <source>Rename History Item</source>
+        <target state="translated">Rename History Item</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rename Tab" xml:space="preserve">
+        <source>Rename Tab</source>
+        <target state="translated">Rename Tab</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rename folder “%@” to:" xml:space="preserve">
+        <source>Rename folder “%@” to:</source>
+        <target state="translated">Rename folder “%@” to:</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rename history item “%@” to:" xml:space="preserve">
+        <source>Rename history item “%@” to:</source>
+        <target state="translated">Rename history item “%@” to:</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Rename tab “%@” to:" xml:space="preserve">
+        <source>Rename tab “%@” to:</source>
+        <target state="translated">Rename tab “%@” to:</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Renaming Tab" xml:space="preserve">
+        <source>Renaming Tab</source>
+        <target state="translated">Renaming Tab</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Reopen closed viewers" xml:space="preserve">
+        <source>Reopen closed viewers</source>
+        <target state="translated">Reopen closed viewers</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Reopen last closed viewers when launch the app." xml:space="preserve">
+        <source>Reopen last closed viewers when launch the app.</source>
+        <target state="translated">Reopen last closed viewers when launch the app.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Repair" xml:space="preserve">
+        <source>Repair</source>
+        <target state="translated">Repair</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Repair mode" xml:space="preserve">
+        <source>Repair mode</source>
+        <target state="translated">Repair mode</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Repairable String" xml:space="preserve">
+        <source>Repairable String</source>
+        <target state="translated">Repairable String</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Reset" xml:space="preserve">
+        <source>Reset</source>
+        <target state="translated">Reset</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Restore Purchase" xml:space="preserve">
+        <source>Restore Purchase</source>
+        <target state="translated">Restore Purchase</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Result Format" xml:space="preserve">
+        <source>Result Format</source>
+        <target state="translated">Result Format</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Result Type" xml:space="preserve">
+        <source>Result Type</source>
+        <target state="translated">Result Type</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Root" xml:space="preserve">
+        <source>Root</source>
+        <target state="translated">Root</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Run" xml:space="preserve">
+        <source>Run</source>
+        <target state="translated">Run</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Run Script" xml:space="preserve">
+        <source>Run Script</source>
+        <target state="translated">Run Script</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Save" xml:space="preserve">
+        <source>Save</source>
+        <target state="translated">Save</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Save As" xml:space="preserve">
+        <source>Save As</source>
+        <target state="translated">Save As</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Save Changes" xml:space="preserve">
+        <source>Save Changes</source>
+        <target state="translated">Save Changes</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Save Changes to File" xml:space="preserve">
+        <source>Save Changes to File</source>
+        <target state="translated">Save Changes to File</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Script Error" xml:space="preserve">
+        <source>Script Error</source>
+        <target state="translated">Script Error</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Script Folder: %@" xml:space="preserve">
+        <source>Script Folder: %@</source>
+        <target state="translated">Script Folder: %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Scripts" xml:space="preserve">
+        <source>Scripts</source>
+        <target state="translated">Scripts</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Scripts Folder" xml:space="preserve">
+        <source>Scripts Folder</source>
+        <target state="translated">Scripts Folder</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Scripts Panel" xml:space="preserve">
+        <source>Scripts Panel</source>
+        <target state="translated">Scripts Panel</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Scripts Reloaded" xml:space="preserve">
+        <source>Scripts Reloaded</source>
+        <target state="translated">Scripts Reloaded</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Search" xml:space="preserve">
+        <source>Search</source>
+        <target state="translated">Search</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Search Range" xml:space="preserve">
+        <source>Search Range</source>
+        <target state="translated">Search Range</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Search Scripts" xml:space="preserve">
+        <source>Search Scripts</source>
+        <target state="translated">Search Scripts</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Search in Node" xml:space="preserve">
+        <source>Search in Node</source>
+        <target state="translated">Search in Node</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Second text view’s content is not valid JSON string." xml:space="preserve">
+        <source>Second text view’s content is not valid JSON string.</source>
+        <target state="translated">Second text view’s content is not valid JSON string.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Select Folder" xml:space="preserve">
+        <source>Select Folder</source>
+        <target state="translated">Select Folder</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Select Font…" xml:space="preserve">
+        <source>Select Font…</source>
+        <target state="translated">Select Font…</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Select Script" xml:space="preserve">
+        <source>Select Script</source>
+        <target state="translated">Select Script</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Settings" xml:space="preserve">
+        <source>Settings</source>
+        <target state="translated">Settings</target>
+        <note>Localizable.strings
+  OKJSON
+
+  Created by Francis Feng on 2021/6/23.</note>
+      </trans-unit>
+      <trans-unit id="Share" xml:space="preserve">
+        <source>Share</source>
+        <target state="translated">Share</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Shortcuts" xml:space="preserve">
+        <source>Shortcuts</source>
+        <target state="translated">Shortcuts</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show Editor" xml:space="preserve">
+        <source>Show Editor</source>
+        <target state="translated">Show Editor</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show History" xml:space="preserve">
+        <source>Show History</source>
+        <target state="translated">Show History</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show License Activation" xml:space="preserve">
+        <source>Show License Activation</source>
+        <target state="translated">Show License Activation</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show Navigator" xml:space="preserve">
+        <source>Show Navigator</source>
+        <target state="translated">Show Navigator</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show Purchase Window" xml:space="preserve">
+        <source>Show Purchase Window</source>
+        <target state="translated">Show Purchase Window</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show Script Collection" xml:space="preserve">
+        <source>Show Script Collection</source>
+        <target state="translated">Show Script Collection</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show Script File in Finder" xml:space="preserve">
+        <source>Show Script File in Finder</source>
+        <target state="translated">Show Script File in Finder</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show Scripts Folder in Finder" xml:space="preserve">
+        <source>Show Scripts Folder in Finder</source>
+        <target state="translated">Show Scripts Folder in Finder</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show Scripts Panel" xml:space="preserve">
+        <source>Show Scripts Panel</source>
+        <target state="translated">Show Scripts Panel</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show Sidebar" xml:space="preserve">
+        <source>Show Sidebar</source>
+        <target state="translated">Show Sidebar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show line number" xml:space="preserve">
+        <source>Show line number</source>
+        <target state="translated">Show line number</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show menu bar icon" xml:space="preserve">
+        <source>Show menu bar icon</source>
+        <target state="translated">Show menu bar icon</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Show node type column" xml:space="preserve">
+        <source>Show node type column</source>
+        <target state="translated">Show node type column</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sort by" xml:space="preserve">
+        <source>Sort by</source>
+        <target state="translated">Sort by</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sort keys" xml:space="preserve">
+        <source>Sort keys</source>
+        <target state="translated">Sort keys</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sort object properties" xml:space="preserve">
+        <source>Sort object properties</source>
+        <target state="translated">Sort object properties</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Start Fetching" xml:space="preserve">
+        <source>Start Fetching</source>
+        <target state="translated">Start Fetching</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Start Free Trial" xml:space="preserve">
+        <source>Start Free Trial</source>
+        <target state="translated">Start Free Trial</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Starts With" xml:space="preserve">
+        <source>Starts With</source>
+        <target state="translated">Starts With</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Style" xml:space="preserve">
+        <source>Style</source>
+        <target state="translated">Style</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Tab size" xml:space="preserve">
+        <source>Tab size</source>
+        <target state="translated">Tab size</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Thanks for your support and enjoy!" xml:space="preserve">
+        <source>Thanks for your support and enjoy!</source>
+        <target state="translated">Thanks for your support and enjoy!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="There was a problem with the App Store." xml:space="preserve">
+        <source>There was a problem with the App Store.</source>
+        <target state="translated">There was a problem with the App Store.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="These two text views’ contents represent a same JSON object." xml:space="preserve">
+        <source>These two text views’ contents represent a same JSON object.</source>
+        <target state="translated">These two text views’ contents represent a same JSON object.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="This Week" xml:space="preserve">
+        <source>This Week</source>
+        <target state="translated">This Week</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="This is not a valid JSON file." xml:space="preserve">
+        <source>This is not a valid JSON file.</source>
+        <target state="translated">This is not a valid JSON file.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="This string can be repaired and formatted. Do you want to repair?" xml:space="preserve">
+        <source>This string can be repaired and formatted. Do you want to repair?</source>
+        <target state="translated">This string can be repaired and formatted. Do you want to repair?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Today" xml:space="preserve">
+        <source>Today</source>
+        <target state="translated">Today</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Toggle Editor" xml:space="preserve">
+        <source>Toggle Editor</source>
+        <target state="translated">Toggle Editor</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Toggle Navigator" xml:space="preserve">
+        <source>Toggle Navigator</source>
+        <target state="translated">Toggle Navigator</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Toggle Node" xml:space="preserve">
+        <source>Toggle Node</source>
+        <target state="translated">Toggle Node</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Toggle Sidebar" xml:space="preserve">
+        <source>Toggle Sidebar</source>
+        <target state="translated">Toggle Sidebar</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Trial Ended" xml:space="preserve">
+        <source>Trial Ended</source>
+        <target state="translated">Trial Ended</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Trial Started" xml:space="preserve">
+        <source>Trial Started</source>
+        <target state="translated">Trial Started</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Try OK JSON for 14 days" xml:space="preserve">
+        <source>Try OK JSON for 14 days</source>
+        <target state="translated">Try OK JSON for 14 days</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="URL Decode in New Viewer" xml:space="preserve">
+        <source>URL Decode in New Viewer</source>
+        <target state="translated">URL Decode in New Viewer</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="URL response is not valid JSON string." xml:space="preserve">
+        <source>URL response is not valid JSON string.</source>
+        <target state="translated">URL response is not valid JSON string.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unable to Load Script %@" xml:space="preserve">
+        <source>Unable to Load Script %@</source>
+        <target state="translated">Unable to Load Script %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unable to Read File Content: %@" xml:space="preserve">
+        <source>Unable to Read File Content: %@</source>
+        <target state="translated">Unable to Read File Content: %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unable to Save Changes to File" xml:space="preserve">
+        <source>Unable to Save Changes to File</source>
+        <target state="translated">Unable to Save Changes to File</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unable to Save File to %@" xml:space="preserve">
+        <source>Unable to Save File to %@</source>
+        <target state="translated">Unable to Save File to %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unsaved Changes in Editor" xml:space="preserve">
+        <source>Unsaved Changes in Editor</source>
+        <target state="translated">Unsaved Changes in Editor</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Unsorted" xml:space="preserve">
+        <source>Unsorted</source>
+        <target state="translated">Unsorted</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Untitled" xml:space="preserve">
+        <source>Untitled</source>
+        <target state="translated">Untitled</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Value" xml:space="preserve">
+        <source>Value</source>
+        <target state="translated">Value</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Value Copied" xml:space="preserve">
+        <source>Value Copied</source>
+        <target state="translated">Value Copied</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Version %@ (%@)" xml:space="preserve">
+        <source>Version %@ (%@)</source>
+        <target state="translated">Version %@ (%@)</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="We hope you enjoy it!" xml:space="preserve">
+        <source>We hope you enjoy it!</source>
+        <target state="translated">We hope you enjoy it!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="We want to make sure OK JSON is suitable for you." xml:space="preserve">
+        <source>We want to make sure OK JSON is suitable for you.</source>
+        <target state="translated">We want to make sure OK JSON is suitable for you.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Welcome to OK JSON" xml:space="preserve">
+        <source>Welcome to OK JSON</source>
+        <target state="translated">Welcome to OK JSON</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="When enabled, OK JSON will try to repair invalid JSON string from pasteboard or JSON file." xml:space="preserve">
+        <source>When enabled, OK JSON will try to repair invalid JSON string from pasteboard or JSON file.</source>
+        <target state="translated">When enabled, OK JSON will try to repair invalid JSON string from pasteboard or JSON file.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="When the trial ends, you can purchase OK JSON Pro with one-time payment and get free lifetime update, including major versions." xml:space="preserve">
+        <source>When the trial ends, you can purchase OK JSON Pro with one-time payment and get free lifetime update, including major versions.</source>
+        <target state="translated">When the trial ends, you can purchase OK JSON Pro with one-time payment and get free lifetime update, including major versions.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Whether or not to wrap the results in an array." xml:space="preserve">
+        <source>Whether or not to wrap the results in an array.</source>
+        <target state="translated">Whether or not to wrap the results in an array.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Whether the returned array of results will be flattened to a single dimension array." xml:space="preserve">
+        <source>Whether the returned array of results will be flattened to a single dimension array.</source>
+        <target state="translated">Whether the returned array of results will be flattened to a single dimension array.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Wrap lines to editor width" xml:space="preserve">
+        <source>Wrap lines to editor width</source>
+        <target state="translated">Wrap lines to editor width</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Wrap results in array" xml:space="preserve">
+        <source>Wrap results in array</source>
+        <target state="translated">Wrap results in array</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Yesterday" xml:space="preserve">
+        <source>Yesterday</source>
+        <target state="translated">Yesterday</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You are on OK JSON Pro." xml:space="preserve">
+        <source>You are on OK JSON Pro.</source>
+        <target state="translated">You are on OK JSON Pro.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You are on free trial." xml:space="preserve">
+        <source>You are on free trial.</source>
+        <target state="translated">You are on free trial.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You can also drag-and-drop here to view." xml:space="preserve">
+        <source>You can also drag-and-drop here to view.</source>
+        <target state="translated">You can also drag-and-drop here to view.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You can still try OK JSON for %d day." xml:space="preserve">
+        <source>You can still try OK JSON for %d day.</source>
+        <target state="translated">You can still try OK JSON for %d day.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You can still try OK JSON for %d days." xml:space="preserve">
+        <source>You can still try OK JSON for %d days.</source>
+        <target state="translated">You can still try OK JSON for %d days.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You can still try OK JSON for %d hour." xml:space="preserve">
+        <source>You can still try OK JSON for %d hour.</source>
+        <target state="translated">You can still try OK JSON for %d hour.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You can still try OK JSON for %d hours." xml:space="preserve">
+        <source>You can still try OK JSON for %d hours.</source>
+        <target state="translated">You can still try OK JSON for %d hours.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You can try it for free for 14 days." xml:space="preserve">
+        <source>You can try it for free for 14 days.</source>
+        <target state="translated">You can try it for free for 14 days.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your trial has ended." xml:space="preserve">
+        <source>Your trial has ended.</source>
+        <target state="translated">Your trial has ended.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your trial has ended. Still enjoying OK JSON?" xml:space="preserve">
+        <source>Your trial has ended. Still enjoying OK JSON?</source>
+        <target state="translated">Your trial has ended. Still enjoying OK JSON?</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your trial has started. %@" xml:space="preserve">
+        <source>Your trial has started. %@</source>
+        <target state="translated">Your trial has started. %@</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Your trial has started. Enjoy!" xml:space="preserve">
+        <source>Your trial has started. Enjoy!</source>
+        <target state="translated">Your trial has started. Enjoy!</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You’ve got Raycast running." xml:space="preserve">
+        <source>You’ve got Raycast running.</source>
+        <target state="translated">You’ve got Raycast running.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="You’ve purchased OK JSON Pro." xml:space="preserve">
+        <source>You’ve purchased OK JSON Pro.</source>
+        <target state="translated">You’ve purchased OK JSON Pro.</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Zoom In Node" xml:space="preserve">
+        <source>Zoom In Node</source>
+        <target state="translated">Zoom In Node</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Zoom In Node In New Viewer" xml:space="preserve">
+        <source>Zoom In Node In New Viewer</source>
+        <target state="translated">Zoom In Node In New Viewer</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="just now" xml:space="preserve">
+        <source>just now</source>
+        <target state="translated">just now</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="OK JSON/Localizations/ServicesMenu.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.1" build-num="15C5028h"/>
+    </header>
+    <body>
+      <trans-unit id="View in OK JSON" xml:space="preserve">
+        <source>View in OK JSON</source>
+        <target state="translated">View in OK JSON</target>
+        <note>ServicesMenu.strings
+  OK JSON
+
+  Created by Francis Feng on 2021/8/7.</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="QuickLookExtension/InfoPlist.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.1" build-num="15C5028h"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName" xml:space="preserve">
+        <source>Quick Look with OK JSON</source>
+        <target state="translated">Quick Look with OK JSON</target>
+        <note>InfoPlist.strings
+  OK JSON
+
+  Created by Francis on 2023/4/14.</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>QuickLookExtension</source>
+        <target state="new">QuickLookExtension</target>
+        <note>Bundle name</note>
+      </trans-unit>
+      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
+        <source>Copyright © 2021—2023 Anybox LTD. All rights reserved.</source>
+        <target state="new">Copyright © 2021—2023 Anybox LTD. All rights reserved.</target>
+        <note>Copyright (human-readable)</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="QuickLookExtension/QuickLook.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.1" build-num="15C5028h"/>
+    </header>
+    <body>
+      <trans-unit id="Format" xml:space="preserve">
+        <source>Format</source>
+        <target state="translated">Format</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Original" xml:space="preserve">
+        <source>Original</source>
+        <target state="translated">Original</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Settings" xml:space="preserve">
+        <source>Settings</source>
+        <target state="translated">Settings</target>
+        <note>QuickLook.strings
+  OK JSON
+
+  Created by Francis on 2023/5/11.</note>
+      </trans-unit>
+      <trans-unit id="Wrap Lines" xml:space="preserve">
+        <source>Wrap Lines</source>
+        <target state="translated">Wrap Lines</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
