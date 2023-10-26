@@ -1292,6 +1292,17 @@
         }
       }
     },
+    "Limited-time offer. Original: %@, %d%% off." : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Limited-time offer. Original: %@, %d%% off."
+          }
+        }
+      }
+    },
     "Line Wrapping" : {
       "extractionState" : "manual",
       "localizations" : {

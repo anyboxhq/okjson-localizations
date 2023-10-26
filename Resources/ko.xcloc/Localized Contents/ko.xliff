@@ -1054,6 +1054,10 @@
         <source>Light</source>
         <note/>
       </trans-unit>
+      <trans-unit id="Limited-time offer. Original: %@, %d%% off." xml:space="preserve">
+        <source>Limited-time offer. Original: %@, %d%% off.</source>
+        <note/>
+      </trans-unit>
       <trans-unit id="Line Wrapping" xml:space="preserve">
         <source>Line Wrapping</source>
         <note/>
